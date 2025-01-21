@@ -41,7 +41,7 @@ $(document).ready(function() {
 // Pega valores
     loanAmount = $('#loan-amount').val();
 // Juros + Taxa de adesão <--------------------------------------------------
-    interestRate = 4.774; 
+    interestRate = 1.500; 
     loanTerm = $('#loan-term').val();
 // Calcula os novos resultados
     monthlyRate = interestRate / 100;
